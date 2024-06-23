@@ -1,0 +1,29 @@
+{
+  "CultureKey": "i18n-hu-HU",
+  "CultureElements": [
+    {
+      "Key": "ERROR_HoleIsNull",
+      "Value": "A furat objektum hiányzik!"
+    },
+    {
+      "Key": "ERROR_HoleCollectionIsNull",
+      "Value": "A furat kollekció hiányzik!"
+    },
+    {
+      "Key": "ERROR_HoleTagNotFound",
+      "Value": "A furat címkéje nem található!"
+    },
+    {
+      "Key": "ERROR_HoleCoordinatesNotFound",
+      "Value": "A furat koordinátái nem találhatóak!"
+    },
+    {
+      "Key": "ERROR_HoleDiameterIsNotPositive",
+      "Value": "A megadott furat átmérője nem pozitív szám: {0}"
+    },
+    {
+      "Key": "ERROR_HoleDepthIsNotPositive",
+      "Value": "A megadott furat mélysége nem pozitív szám: {0}"
+    }
+  ]
+}

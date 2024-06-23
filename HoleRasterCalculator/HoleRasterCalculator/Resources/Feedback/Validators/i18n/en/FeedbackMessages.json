@@ -1,0 +1,29 @@
+{
+  "CultureKey": "i18n-en",
+  "CultureElements": [
+    {
+      "Key": "ERROR_HoleIsNull",
+      "Value": "Hole object is missing!"
+    },
+    {
+      "Key": "ERROR_HoleCollectionIsNull",
+      "Value": "Hole collection is missing!"
+    },
+    {
+      "Key": "ERROR_HoleTagNotFound",
+      "Value": "Hole tag could not be found!"
+    },
+    {
+      "Key": "ERROR_HoleCoordinatesNotFound",
+      "Value": "Hole coordinates could not be found!"
+    },
+    {
+      "Key": "ERROR_HoleDiameterIsNotPositive",
+      "Value": "Given hole diameter is not positive: {0}"
+    },
+    {
+      "Key": "ERROR_HoleDepthIsNotPositive",
+      "Value": "Given hole depth is not positive: {0}"
+    }
+  ]
+}

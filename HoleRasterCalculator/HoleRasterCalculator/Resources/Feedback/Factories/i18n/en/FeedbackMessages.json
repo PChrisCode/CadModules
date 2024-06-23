@@ -1,0 +1,41 @@
+{
+  "CultureKey": "i18n-en",
+  "CultureElements": [
+    {
+      "Key": "ERROR_XValuesNotProvided",
+      "Value": "Could not find any x coordinate values in the given collection."
+    },
+    {
+      "Key": "ERROR_YValuesNotProvided",
+      "Value": "Could not find any y coordinate values in the given collection."
+    },
+    {
+      "Key": "ERROR_TagValuesNotProvided",
+      "Value": "Could not find any tag values in the given collection."
+    },
+    {
+      "Key": "ERROR_DiameterValuesNotProvided",
+      "Value": "Could not find any diameter values in the given collection."
+    },
+    {
+      "Key": "ERROR_DepthValuesNotProvided",
+      "Value": "Could not find any depth values in the given collection."
+    },
+    {
+      "Key": "ERROR_XAndYValueCountsAreNotEqual",
+      "Value": "The count of the given x values ({0}) and y values ({1}) are not equal."
+    },
+    {
+      "Key": "ERROR_CoordinateAndTagCountsAreNotEqual",
+      "Value": "The count of the given coordinates ({0}) and tags ({1}) are not equal."
+    },
+    {
+      "Key": "ERROR_CoordinateAndDiameterCountsAreNotEqual",
+      "Value": "The count of the given coordinates ({0}) and diameters ({1}) are not equal."
+    },
+    {
+      "Key": "ERROR_CoordinateAndDepthCountsAreNotEqual",
+      "Value": "The count of the given coordinates ({0}) and depths ({1}) are not equal."
+    }
+  ]
+}

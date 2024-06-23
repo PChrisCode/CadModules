@@ -1,0 +1,41 @@
+{
+  "CultureKey": "i18n-hu-HU",
+  "CultureElements": [
+    {
+      "Key": "ERROR_XValuesNotProvided",
+      "Value": "A megadott kollekció nem tartalmaz egy x koordinátát sem."
+    },
+    {
+      "Key": "ERROR_YValuesNotProvided",
+      "Value": "A megadott kollekció nem tartalmaz egy y koordinátát sem."
+    },
+    {
+      "Key": "ERROR_TagValuesNotProvided",
+      "Value": "A megadott kollekció nem tartalmaz egy címkét sem."
+    },
+    {
+      "Key": "ERROR_DiameterValuesNotProvided",
+      "Value": "A megadott kollekció nem tartalmaz egy átmérő értéket sem."
+    },
+    {
+      "Key": "ERROR_DepthValuesNotProvided",
+      "Value": "A megadott kollekció nem tartalmaz egy mélység értéket sem."
+    },
+    {
+      "Key": "ERROR_XAndYValueCountsAreNotEqual",
+      "Value": "A megadott x értékek ({0}) és y értékek ({1}) száma nem egyezik meg."
+    },
+    {
+      "Key": "ERROR_CoordinateAndTagCountsAreNotEqual",
+      "Value": "A megadott koordináták ({0}) és címkék ({1}) száma nem egyezik meg."
+    },
+    {
+      "Key": "ERROR_CoordinateAndDiameterCountsAreNotEqual",
+      "Value": "A megadott koordináták ({0}) és átmérő értékek ({1}) száma nem egyezik meg."
+    },
+    {
+      "Key": "ERROR_CoordinateAndDepthCountsAreNotEqual",
+      "Value": "A megadott koordináták ({0}) és mélység értékek ({1}) száma nem egyezik meg."
+    }
+  ]
+}
